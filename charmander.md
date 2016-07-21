@@ -19,6 +19,6 @@ Three dashes for a horizontal line:
 
 Use an ! and brackets to put in an image, you can specify size too.
 
-![charmander](http://i.imgur.com/HpQ4K6R.jpg){: width="500em" }
+![charmander](http://i.imgur.com/HpQ4K6R.jpg){: width="300em" }
 
 Or whatever. Check the link for more.
